@@ -12,8 +12,3 @@ Many efforts to construct computer-generated natural descriptions of images prop
 
 The model combines a vision CNN with a language-generating RNN so it can take in an image and generate a fitting natural-language caption.
 
-Our experiments with this system on several openly published datasets, including Pascal, Flickr8k, Flickr30k and SBU, show how robust the qualitative results are -- the generated sentences are quite reasonable. It also performs well in quantitative evaluations with the Bilingual Evaluation Understudy (BLEU), a metric used in machine translation to evaluate the quality of generated sentences.
-
-A selection of evaluation results, grouped by human rating.
-
-For full paper published by google and team Checkout this link : https://arxiv.org/abs/1411.4555
